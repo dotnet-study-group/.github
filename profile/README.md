@@ -13,7 +13,7 @@ Here's a growing list of the topics we've discussed so far:
 - **Docker and ASP.NET** - Working with Docker and .NET together.
 
 ## Next Topic 🚩
-- **Dependency Injection** - Principles and implementation in .NET.
+- **Dependency Injection** - Principles and implementation in .NET by [Eduardo Flores](https://github.com/edfloresapx)
 
 ## Proposed Topics 🥳
 - **C# Language Deep Dive** - Advanced language features, such as LINQ, asynchronous programming, and more.
