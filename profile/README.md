@@ -12,8 +12,10 @@ Here's a growing list of the topics we've discussed so far:
 - **Entity Framework Core** - Understanding ORM and database-first vs code-first approaches.
 - **Docker and ASP.NET** - Working with Docker and .NET together.
 
-## Proposed Topics 🥳
+## Next Topic 🚩
 - **Dependency Injection** - Principles and implementation in .NET.
+
+## Proposed Topics 🥳
 - **C# Language Deep Dive** - Advanced language features, such as LINQ, asynchronous programming, and more.
 - **ASP.NET Core for Web Development** - Building scalable web applications and APIs.
 - **Blazor** - Modern web development with C#.
