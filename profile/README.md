@@ -23,6 +23,7 @@ Here's a growing list of the topics we've discussed so far:
 - **Upcoming Topics** - Stay tuned for more exciting discussions!
 
 ## Projects 🎈
+- [**ConsoleAppFirstSession**](https://github.com/dotnet-study-group/ConsoleAppFirstSession)
 - **Upcoming Projects** - Stay tuned for more projects!
 
 ## How to Get Involved 🤝
