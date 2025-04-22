@@ -22,6 +22,9 @@ Here's a growing list of the topics we've discussed so far:
 - **Azure Integration with .NET** - Leveraging Microsoft Azure for cloud-based applications.
 - **Upcoming Topics** - Stay tuned for more exciting discussions!
 
+## Projects 🎈
+- **Upcoming Projects** - Stay tuned for more projects!
+
 ## How to Get Involved 🤝
 
 - Join our discussions on [GitHub Discussions](https://github.com/orgs/dotnet-study-group/discussions) or during our live sessions.
